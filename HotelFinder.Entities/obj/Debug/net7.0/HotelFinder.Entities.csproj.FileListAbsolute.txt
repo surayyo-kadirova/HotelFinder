@@ -1,0 +1,14 @@
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Entities/bin/Debug/net7.0/HotelFinder.Entities.deps.json
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Entities/bin/Debug/net7.0/HotelFinder.Entities.runtimeconfig.json
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Entities/bin/Debug/net7.0/HotelFinder.Entities.dll
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Entities/bin/Debug/net7.0/HotelFinder.Entities.pdb
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Entities/obj/Debug/net7.0/HotelFinder.Entities.csproj.AssemblyReference.cache
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Entities/obj/Debug/net7.0/HotelFinder.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Entities/obj/Debug/net7.0/HotelFinder.Entities.AssemblyInfoInputs.cache
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Entities/obj/Debug/net7.0/HotelFinder.Entities.AssemblyInfo.cs
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Entities/obj/Debug/net7.0/HotelFinder.Entities.csproj.CoreCompileInputs.cache
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Entities/obj/Debug/net7.0/HotelFinder.Entities.dll
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Entities/obj/Debug/net7.0/refint/HotelFinder.Entities.dll
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Entities/obj/Debug/net7.0/HotelFinder.Entities.pdb
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Entities/obj/Debug/net7.0/HotelFinder.Entities.genruntimeconfig.cache
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Entities/obj/Debug/net7.0/ref/HotelFinder.Entities.dll
