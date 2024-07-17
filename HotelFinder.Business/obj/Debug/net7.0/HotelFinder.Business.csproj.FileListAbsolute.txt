@@ -1,0 +1,17 @@
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Business/bin/Debug/net7.0/HotelFinder.Business.deps.json
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Business/bin/Debug/net7.0/HotelFinder.Business.dll
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Business/bin/Debug/net7.0/HotelFinder.Business.pdb
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Business/bin/Debug/net7.0/HotelFinder.DatabaseContext.dll
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Business/bin/Debug/net7.0/HotelFinder.Entities.dll
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Business/bin/Debug/net7.0/HotelFinder.Entities.pdb
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Business/bin/Debug/net7.0/HotelFinder.DatabaseContext.pdb
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.csproj.AssemblyReference.cache
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.AssemblyInfoInputs.cache
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.AssemblyInfo.cs
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.csproj.CoreCompileInputs.cache
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.csproj.CopyComplete
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.dll
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/refint/HotelFinder.Business.dll
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/HotelFinder.Business.pdb
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Business/obj/Debug/net7.0/ref/HotelFinder.Business.dll

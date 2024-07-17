@@ -1,0 +1,17 @@
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.DatabaseContext/bin/Debug/net7.0/HotelFinder.DatabaseContext.deps.json
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.DatabaseContext/bin/Debug/net7.0/HotelFinder.DatabaseContext.runtimeconfig.json
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.DatabaseContext/bin/Debug/net7.0/HotelFinder.DatabaseContext.dll
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.DatabaseContext/bin/Debug/net7.0/HotelFinder.DatabaseContext.pdb
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.DatabaseContext/bin/Debug/net7.0/HotelFinder.Entities.dll
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.DatabaseContext/bin/Debug/net7.0/HotelFinder.Entities.pdb
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.DatabaseContext/obj/Debug/net7.0/HotelFinder.DatabaseContext.csproj.AssemblyReference.cache
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.DatabaseContext/obj/Debug/net7.0/HotelFinder.DatabaseContext.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.DatabaseContext/obj/Debug/net7.0/HotelFinder.DatabaseContext.AssemblyInfoInputs.cache
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.DatabaseContext/obj/Debug/net7.0/HotelFinder.DatabaseContext.AssemblyInfo.cs
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.DatabaseContext/obj/Debug/net7.0/HotelFinder.DatabaseContext.csproj.CoreCompileInputs.cache
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.DatabaseContext/obj/Debug/net7.0/HotelFinder.DatabaseContext.dll
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.DatabaseContext/obj/Debug/net7.0/refint/HotelFinder.DatabaseContext.dll
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.DatabaseContext/obj/Debug/net7.0/HotelFinder.DatabaseContext.pdb
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.DatabaseContext/obj/Debug/net7.0/HotelFinder.DatabaseContext.genruntimeconfig.cache
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.DatabaseContext/obj/Debug/net7.0/ref/HotelFinder.DatabaseContext.dll
+/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.DatabaseContext/obj/Debug/net7.0/HotelFinder.DatabaseContext.csproj.CopyComplete

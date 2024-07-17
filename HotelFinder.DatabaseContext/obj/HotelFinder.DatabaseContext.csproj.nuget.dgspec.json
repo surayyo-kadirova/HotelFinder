@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.DatabaseContext/HotelFinder.DatabaseContext.csproj": {}
+  },
+  "projects": {
+    "/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.DatabaseContext/HotelFinder.DatabaseContext.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.DatabaseContext/HotelFinder.DatabaseContext.csproj",
+        "projectName": "HotelFinder.DatabaseContext",
+        "projectPath": "/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.DatabaseContext/HotelFinder.DatabaseContext.csproj",
+        "packagesPath": "/Users/surayyokadirova/.nuget/packages/",
+        "outputPath": "/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.DatabaseContext/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/surayyokadirova/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Entities/HotelFinder.Entities.csproj": {
+                "projectPath": "/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Entities/HotelFinder.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Entities/HotelFinder.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Entities/HotelFinder.Entities.csproj",
+        "projectName": "HotelFinder.Entities",
+        "projectPath": "/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Entities/HotelFinder.Entities.csproj",
+        "packagesPath": "/Users/surayyokadirova/.nuget/packages/",
+        "outputPath": "/Users/surayyokadirova/Desktop/HotelFinder/HotelFinder.Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/surayyokadirova/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
