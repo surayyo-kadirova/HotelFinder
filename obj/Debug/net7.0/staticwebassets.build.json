@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3P6xYmAlq2CfXozzBxyRPCVKgBxo+Y9aP/XZIgPZlVg=",
+  "Source": "HotelFinder.API",
+  "BasePath": "_content/HotelFinder.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

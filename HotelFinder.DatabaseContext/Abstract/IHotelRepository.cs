@@ -6,15 +6,15 @@ namespace HotelFinder.DatabaseContext.Abstract
 {
 	public interface IHotelRepository
 	{
-		List<Hotel> GetAllHotels();
+		Task<List<Hotel>> GetAllHotels();
 
-		Hotel GetHotelById(int Id);
+		Task<Hotel> GetHotelById(int Id);
 
-		Hotel CreateHotel(Hotel hotel);
+        Task<Hotel> CreateHotel(Hotel hotel);
 
-		Hotel UpdateHotel(Hotel hotel);
+        Task<Hotel> UpdateHotel(Hotel hotel);
 
-        void DeleteHotel(int Id);
+        Task DeleteHotel(int Id);   //void olan method olduğu için herhangi bir tip belirtmiyoruz
 	}
 }
 

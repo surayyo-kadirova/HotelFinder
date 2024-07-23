@@ -6,12 +6,20 @@ namespace HotelFinder.Business.Abstract
 {
 	public interface IHotelService
 	{
-		List<Hotel> GetAllHotels();
-        Hotel GetHotelById(int Id);
-		Hotel CreateHotel(Hotel hotel);
-		Hotel UpdateHotel(Hotel hotel);
-		void DeleteHotel(int Id);
+		Task<List<Hotel>> GetAllHotels();
+
+        Task<Hotel> GetHotelById(int Id);
+
+        Task<Hotel> CreateHotel(Hotel hotel);
+
+        Task<Hotel> UpdateHotel(Hotel hotel);
+
+		Task DeleteHotel(int Id);
 
 	}
 }
+
+
+
+
 

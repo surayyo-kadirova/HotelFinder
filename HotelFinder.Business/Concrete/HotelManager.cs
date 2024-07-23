@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Diagnostics;
 using HotelFinder.Business.Abstract;
+using HotelFinder.DatabaseContext;
 using HotelFinder.DatabaseContext.Abstract;
 using HotelFinder.DatabaseContext.Concrete;
 using HotelFinder.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace HotelFinder.Business.Concrete
 {
@@ -18,38 +20,53 @@ namespace HotelFinder.Business.Concrete
         }
 
 
-        public Hotel CreateHotel(Hotel hotel)
+        public async Task<Hotel> CreateHotel(Hotel hotel)
         {
-            return _hotelRepository.CreateHotel(hotel);
+            return await _hotelRepository.CreateHotel(hotel);
         }
 
-        public void DeleteHotel(int Id)
+        public async Task DeleteHotel(int Id)
         {
-            _hotelRepository.DeleteHotel(Id);
+           if (Id >= 0)
+           {
+               await  _hotelRepository.DeleteHotel(Id);
+
+           }
+           else
+           {
+                throw new Exception("Id can not be less than 1");
+           }
+           
         }
 
-        public List<Hotel> GetAllHotels()
+        public async Task<List<Hotel>> GetAllHotels()
         {
-            return _hotelRepository.GetAllHotels();
+            return await _hotelRepository.GetAllHotels();
+
         }
 
-        public Hotel GetHotelById(int Id)
+
+        public async Task<Hotel> GetHotelById(int Id)
         {
-            
-            if (Id > 0)
+
+            if (Id >= 0)
             {
-                return _hotelRepository.GetHotelById(Id);
-               
+                return await  _hotelRepository.GetHotelById(Id);
+
             }
-            throw new Exception("Id can not be less than 1");
 
+            else
+            {
+                throw new Exception("Id can not be less than 1");
+            }
 
         }
 
-        public Hotel UpdateHotel(Hotel hotel)
+
+        public async Task<Hotel> UpdateHotel(Hotel hotel)
         {
-            return _hotelRepository.UpdateHotel(hotel);
+            return await _hotelRepository.UpdateHotel(hotel);
         }
+
     }
 }
-
